@@ -1,0 +1,2 @@
+Hello
+Premier test d'écriture dans un fichier via Python
