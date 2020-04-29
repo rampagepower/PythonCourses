@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42192c11-a35d-446d-91c1-ebd8324d56fd" name="Default Changelist" comment="">
+    <list default="true" id="42192c11-a35d-446d-91c1-ebd8324d56fd" name="Default Changelist" comment="Python is fun">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenClassRoomTP/Liste/InitialListe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/PythonCourses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonCourses.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonCrashCourse/chapter-02-list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonWorkBook/TP01/Exo-01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonWorkBook/TP02/Exo-02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonWorkBook/TP03/Exo-03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonWorkBook/TP04/Exo-04.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonWorkBook/TP05/Exo-05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonWorkBook/TP06/Exo-06.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonWorkBook/TP07/Exo-07.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonWorkBook/TP08/Exo-08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenClassRoomTP/Liste/magic8Ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenClassRoomTP/Liste/magic8Ball.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenClassRoomTP/ListeTuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenClassRoomTP/Liste/ListeTuple.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,13 +36,65 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OpenClassRoomTP/Liste" />
       <recent name="$PROJECT_DIR$/OpenClassRoomTP/ZCasino" />
       <recent name="$PROJECT_DIR$/OpenClassRoomTP" />
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.magic8Ball">
+    <configuration name="InitialListe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCourses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenClassRoomTP/Liste" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenClassRoomTP/Liste/InitialListe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="magic8Ball" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCourses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenClassRoomTP/Liste" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenClassRoomTP/Liste/magic8Ball.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.magic8Ball" />
+        <item itemvalue="Python.InitialListe" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -52,6 +107,59 @@
       <option name="presentableId" value="Default" />
       <updated>1588104851935</updated>
     </task>
+    <task id="LOCAL-00001" summary="Python is fun">
+      <created>1588105237195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588105237195</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python is fun">
+      <created>1588190921201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588190921201</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python is fun" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python is fun" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="747" y="429" key="#Custom_Plugin_Repositories" timestamp="1588106339542">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="747" y="429" key="#Custom_Plugin_Repositories/0.23.1680.1027@0.23.1680.1027" timestamp="1588106339542" />
+    <state x="452" y="112" key="CommitChangelistDialog2" timestamp="1588190921048">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="452" y="112" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1588190921048" />
+    <state width="1659" height="530" key="GridCell.Tab.0.bottom" timestamp="1588194249131">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="530" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1588194249131" />
+    <state width="1659" height="530" key="GridCell.Tab.0.center" timestamp="1588194249130">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="530" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1588194249130" />
+    <state width="1659" height="530" key="GridCell.Tab.0.left" timestamp="1588194249130">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="530" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1588194249130" />
+    <state width="1659" height="530" key="GridCell.Tab.0.right" timestamp="1588194249131">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="530" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1588194249131" />
+    <state x="349" y="175" key="SettingsEditor" timestamp="1588106415205">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="349" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1588106415205" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1588190928856">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1588190928856" />
   </component>
 </project>
