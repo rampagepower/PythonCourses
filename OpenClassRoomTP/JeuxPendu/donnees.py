@@ -7,7 +7,7 @@ nb_coups = 8
 # Nom du fichier stockant les scores
 nom_fichier_scores = "scores"
 
-# Liste des mots du pendu
+# Liste Tuple des mots du pendu
 liste_mots = [
     "armoire",
     "boucle",
